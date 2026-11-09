@@ -14,6 +14,7 @@
 | [Chatbot ENSEM](https://github.com/Hafsa-MHd/chatbot-ensem) | Questions répondues d'abord depuis des documents, puis par un modèle de langage. |
 | [Puissance 4](https://github.com/Hafsa-MHd/puissance4) | Jeu console en C, deux joueurs. |
 | [Bomberman](https://github.com/Hafsa-MHd/bomberman) | Jeu console Windows, deux joueurs. |
+| [ACL — Aventure dans un Donjon](https://github.com/Hafsa-MHd/ACL-Project) | Jeu Java à niveaux, labyrinthe, monstres et pièges. Projet de groupe en Scrum. |
 
 ## En cours
 
