@@ -8,7 +8,7 @@
 | --- | --- |
 | [Allocation de production](https://github.com/Hafsa-MHd/allocation-contraintes) | Prévision naïve et MILP. Le solveur réduit le coût de stock et de rupture de 9,9 % par rapport à une politique gloutonne. |
 | [TIPE Hashiwokakero](https://github.com/Hafsa-MHd/hashiwokakero) | Casse-tête NP-complet, graphes, MIP, DFS et Branch-and-Cut. Rapport, notebook et soutenance. |
-| [Feuilles d'arbres](https://github.com/Hafsa-MHd/feuilles-arbre) | Comparaison de CNN, 4 classes puis 32. |
+| [Feuilles d'arbres](https://github.com/Hafsa-MHd/feuilles-arbre) | CNN sur photos de feuilles : 98,4 % sur 4 espèces, 96,8 % sur 32. |
 | [Commande prédictive](https://github.com/Hafsa-MHd/commande-predictive) | MPC en MATLAB : chaîne logistique et Airbus A320. |
 | [BE Twizy](https://github.com/Hafsa-MHd/BE-TWIZY-G4) | Détection de panneaux. SVM + HOG : 78,9 % et 81,6 % sur le jeu de test. |
 | [Chatbot ENSEM](https://github.com/Hafsa-MHd/chatbot-ensem) | Questions répondues d'abord depuis des documents, puis par un modèle de langage. |
