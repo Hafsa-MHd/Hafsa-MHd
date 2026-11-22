@@ -6,6 +6,7 @@
 
 | Projet | Quoi |
 | --- | --- |
+| [PLC Agent](https://github.com/Hafsa-MHd/plc-agent) | Prototype Python : spécification YAML → brouillon SCL Siemens, audit de dix règles, documentation et essais en simulation. |
 | [Allocation de production](https://github.com/Hafsa-MHd/allocation-contraintes) | Prévision naïve et MILP. Le solveur réduit le coût de stock et de rupture de 9,9 % par rapport à une politique gloutonne. |
 | [TIPE Hashiwokakero](https://github.com/Hafsa-MHd/hashiwokakero) | Casse-tête NP-complet, graphes, MIP, DFS et Branch-and-Cut. Rapport, notebook et soutenance. |
 | [Feuilles d'arbres](https://github.com/Hafsa-MHd/feuilles-arbre) | CNN sur photos de feuilles : 98,4 % sur 4 espèces, 96,8 % sur 32. |
